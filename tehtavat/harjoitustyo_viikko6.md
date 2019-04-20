@@ -63,6 +63,6 @@ Arvostelussa kiinnitetään huomiota seuraaviin seikkoihin
     - linkki releaseihin
     - ohjeet komentoriviltä suoritettaviin toimenpiteisiin (testaus, testiraportin suoritus, suoritettavan jarin generointi, checkstyletarkastuksen suorittaminen, JavaDocin generointi)
 - Repositorio siisti
-  - ei ylimääräistä tavaraa (mm. hakemistoa target)
+  - ei ylimääräistä tavaraa (mm. hakemistoa target/ tai tietokantatiedostoja)
   - laskarit jätetään hakemiston _laskarit_ alle
   - järkevä .gitignore-tiedosto olemassa
